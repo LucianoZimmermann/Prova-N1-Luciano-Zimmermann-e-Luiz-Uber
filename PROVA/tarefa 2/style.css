@@ -1,0 +1,12 @@
+#pai{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 980px;
+}
+
+.filho{
+  margin-top: 50%;
+  margin-bottom:50%;
+  font-size: 65px;
+}

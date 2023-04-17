@@ -1,0 +1,16 @@
+#pai{
+  display: flex;
+  justify-content: space-between;
+}
+
+.primeiro{
+  width: 70%;
+  background-color: red;
+  margin-right: 25px;
+}
+
+.segundo{
+  width: 30%;
+  background-color: blue;
+  margin-left: 25px;
+}
